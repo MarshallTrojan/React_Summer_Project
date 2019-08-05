@@ -1,0 +1,7 @@
+There are three projects that are included in this repository.
+1) The first project "albums" can be run by going into the albums/ios/albums.xcodeproj
+  - Then to build and run the application in Xcode use command r
+2) The second project "auth" can be run by going into the auth/ios/auth.xcworkspace
+  - Then to build and run the application in Xcode use command r
+3) The third project "tech_stack" can be run by going into the tech_stack/ios/tech_stack.xcworkspace
+  - Then to build and run the application in Xcode use command r
